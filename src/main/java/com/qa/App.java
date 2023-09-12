@@ -13,12 +13,12 @@ public class App
         System.out.println(sayHelloToSomeone("Alice"));
         System.out.println(sayHelloToSomeone("Bob"));
         System.out.println(sayHelloToSomeone("Charlie"));
-        System.out.println(sayHelloToSomeone("Charlie"));
         System.out.println(sayHelloToSomeone("Dave"));
         System.out.println(sayHelloToSomeone("Edward"));
         System.out.println(sayHelloToSomeone("Fred"));
         System.out.println(sayHelloToSomeone("Graham"));
         System.out.println(sayHelloToSomeone("Zena"));
+        System.out.println(sayHelloToSomeone("Jenkins File"));
         System.out.println(sayGoodbye());
     }
 
